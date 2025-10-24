@@ -1,5 +1,6 @@
 {
   "name": "ecotrack",
+  "homepage":"https://AdityaKanna.github.io/EcoTrack-HackIT",
   "version": "1.0.0",
   "description": "EcoTrack - Carbon Footprint Tracking Application",
   "scripts": {
